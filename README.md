@@ -125,5 +125,5 @@ Documented user interface components including dashboards, configuration panels,
 ## 8. Contact
 
 * Email: [your@email.com](mailto:your@email.com)
-* LinkedIn: https://linkedin.com/in/antony.arulandhu/
+* LinkedIn: https://linkedin.com/in/antonyarulandhu/
 * GitHub: https://github.com/yourusername
